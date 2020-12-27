@@ -2,6 +2,8 @@
 
 PRI. ToDo App - GoLang, Vue.js, MongoDB
 
+![alt text](https://github.com/zsx2000/go-todo/screenshot.jpg?raw=true)
+
 ## Frontend
 * Vue.js
 * bootstrap
